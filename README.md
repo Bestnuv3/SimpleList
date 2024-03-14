@@ -8,3 +8,4 @@ Lista de Exercícios com resolução
 5. Uma pessoa foi ao supermercado e comprou: Q quilos de café, cujo custo unitário é X; L litros de leite, cujo custo unitário é Y; B pacotes de bolacha, cujo custo unitário é Z. Faça um programa que leia estes dados e imprima, para cada produto: nome do produto, total gasto com ele. Além disto, ele deve apresentar o total gasto na compra.
 6. Faça um programa que leia um número inteiro e apresente o quociente e o resto da divisão deste número por 2.
 7. Crie um programa que leia um número inteiro que representa a quantidade de segundos de um vídeo. O programa deve calcular e apresentar quantas horas, minutos e segundos dura este vídeo.
+8. Faça um programa que receba o peso de uma pessoa, calcule e apresente: o novo peso se a pessoa engordar 15% sobre o peso digitado e o novo peso se a pessoa emagrecer 20% sobre o peso digitado.
